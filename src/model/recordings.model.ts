@@ -1,4 +1,3 @@
-// recording.schema.ts
 
 import * as mongoose from 'mongoose';
 
